@@ -2,6 +2,8 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=realMoyosore&theme=vision-friendly-dark&show_icons=true&hide_border=true&count_private=true)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=realMoyosore&theme=vision-friendly-dark&show_icons=true&hide_border=true&layout=compact)
+
 <!--
 **realMoyosore/realMoyosore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
