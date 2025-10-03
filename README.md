@@ -2,7 +2,7 @@
 
 Hi there 👋 I am a 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&letterSpacing=2px&duration=2000&pause=500&color=FFC000&vCenter=true&width=435&lines=Frontend+Developer;Web+Designer;UI+Markup+Developer;Email+Developer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&letterSpacing=2px&duration=2000&pause=500&color=FFC000&vCenter=true&width=435&lines=Frontend+Developer;Web+Designer;Email+Developer" alt="Typing SVG" /></a>
 
 - 🌱 I’m currently learning React JS and using coding platforms to sharpen my DSA skills.
 - 👯 I’m looking to collaborate on website development, web-based applications, mobile applications, and open source projects.
