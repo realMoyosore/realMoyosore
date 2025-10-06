@@ -41,7 +41,7 @@ Hi there 👋 I am a
 
 <p>
  <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
- <a href="#"><img alt="Netlify" src="https://img.shields.io/badge/Netlify-000000.svg?logo=netlify&logoColor=white"></a>
+ <a href="#"><img alt="Netlify" src="https://img.shields.io/badge/Netlify-ffffff.svg?logo=netlify&logoColor=black"></a>
 <a href="#"><img alt="Repl.it" src="https://img.shields.io/badge/Repl.it-0D101E.svg?logo=Replit&logoColor=white"></a>
  <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white"></a>
   
